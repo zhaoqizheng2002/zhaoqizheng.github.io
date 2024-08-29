@@ -21,22 +21,21 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/personalprofile.png"
+  avatar           : "profile.png"
   name             : "Qizheng Zhao"
-  # pronouns         : "he/his"  
+  pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
   location         : "Shenzhen, Guangdong, China"
-  employer         : "Sun Yat-sen University"
-  # uri              : # URL
+  university       : "Sun Yat-sen University"
+  uri              : # URL
   email            : "zhaoqizheng2002@gmail.com" 
-  school email            : "zhaoqzh@mail2.sysu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0009-4496-733X"
-  # semantic         : # URL
+  semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Qizheng-Zhao-2"
 
