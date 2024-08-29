@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "personal_profile.jpg"
   name             : "Qizheng ZHao"
-  pronouns         : "he/his"  
+  # pronouns         : "he/his"  
   # bio              : "Short biography for the left-hand sidebar"
   location         : "Shenzhen, Guangdong, China"
   employer         : "Sun Yat-sen University"
