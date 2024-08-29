@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Qizheng Zhao - Academic CV"
 author_profile: true
 ---
 
@@ -22,12 +21,6 @@ Welcome to my personal website! I am an undergraduate student at the School of P
 1. Zhao Q., Fan X., Chen M., et al. MSS-Former: Multi-Scale Skeletal Transformer for Intelligent Fall Risk Prediction in Older Adults. *IEEE Internet of Things Journal*. (Accepted, JCR Q1, 2023 IF: 10.6) DOI: [10.1109/JIOT.2024.3420789](https://doi.org/10.1109/JIOT.2024.3420789)
 2. Zhao Q., Chen M., Fu L., Yang Y., & Zhan Y. (2024). Assessing and projecting the global burden of thyroid cancer 1990–2030: Analysis of the Global Burden of Disease Study. *Journal of Global Health*. (JCR Q1, 2023 IF: 7.66)
 3. Wang X., Cao J., Zhao Q., et al. Identifying sensors-based parameters associated with fall risk in community-dwelling older adults: an investigation and interpretation of discriminatory parameters. *BMC Geriatrics*. (JCR Q2, 2023 IF: 4.9)
-
-### Research Experience
-**Sun Yat-sen University School of Public Health (Shenzhen)**  
-*Research Team Member*, Prof. Yiqiang Zhan’s Group  
-*Jul 2023 - Present*  
-Conducted research on the epidemiology of neurodegenerative diseases using Mendelian randomization and statistical analysis methods. Participated in projects based on the UK Biobank and NHANES databases.
 
 **Sun Yat-sen University School of Public Health (Shenzhen)**  
 *PI & Team Member*, A.P. Yang Zhao’s Group  
