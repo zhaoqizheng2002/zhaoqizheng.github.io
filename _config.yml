@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qizheng Zhao"
+title                    : "Qizheng Zhao Academic Homapage"
 title_separator          : "-"
 name                     : &name "Qizheng Zhao"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "personalprofile.png"
-  name             : "Qizheng ZHao"
+  name             : "Qizheng Zhao"
   # pronouns         : "he/his"  
   # bio              : "Short biography for the left-hand sidebar"
   location         : "Shenzhen, Guangdong, China"
