@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personal_profile.jpg"
   name             : "Qizheng ZHao"
   pronouns         : "he/his"  
   # bio              : "Short biography for the left-hand sidebar"
